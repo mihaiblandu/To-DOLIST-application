@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ToDOList",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8078,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "jwtSecretKey": "MTQxMDM2NWY4ZGRjMTE4MGQyYTY0Y2I3NGQ1OTBlMTA0YzEzMTExZTY1NTNmNWU5ZTFjNjVkMWUxM2M0MzJiY2I4NWFmMjRjZTcyNDNjNDk1MjA3ZjExYTU2NDE1ZWE4MjkyMGM3NzVkYzc0Yjg1ZWI1ZWI4YTI4NGM1NmNlZDc=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mihaiblandu",
+  "repository-name": "To-DOLIST-application"
+}
